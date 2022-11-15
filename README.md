@@ -21,3 +21,30 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/2tOsjtp4xFgD6pc48U/giphy.gif" width="600" height="300"/>
+</div>
+
+### :eye: About Me :
+
+I am jitrix :clown_face:  from New York.
+
+- :globe_with_meridians: I’m playing in CS:GO.
+
+- :swimming_man: I am a master of sports in underwater sports.
+
+- :cold_face: I'm a genius.
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jitrix13&theme=windows-dark)](https://git.io/streak-stats)
