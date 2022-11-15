@@ -48,3 +48,5 @@ I am jitrix :clown_face:  from New York.
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jitrix13&theme=windows-dark)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitrix13)](https://github.com/rompersStomper/github-readme-stats)
