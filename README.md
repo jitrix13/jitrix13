@@ -17,8 +17,8 @@
 
 <div id="heythere" align="center">
   <h1>
-  sup 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=sup+bro" width="650px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
 </div>
 
@@ -49,4 +49,6 @@ I am jitrix :clown_face:  from New York.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jitrix13&theme=windows-dark)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitrix13)](https://github.com/rompersStomper/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitrix13)](https://github.com/jitrix13/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jitrix13)](https://github.com/jitrix13/github-readme-activity-graph)
